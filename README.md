@@ -1,4 +1,4 @@
-# hardwareDesign
+# IOT Units for sensing and actuation
 
 All pcbs and schematics were created using easyeda, you can find and fork the project files for the hardware units here:
 
